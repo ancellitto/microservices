@@ -1,0 +1,9 @@
+[submodule "currency-conversion-microservice"]
+	path = currency-conversion-microservice
+	url = https://github.com/ancellitto/currency-conversion-microservice.git
+[submodule "currency-conversion-microservice-eureka"]
+	path = currency-conversion-microservice-eureka
+	url = https://github.com/ancellitto/currency-conversion-microservice-eureka.git
+[submodule "forex-service-microservice"]
+	path = forex-service-microservice
+	url = https://github.com/ancellitto/forex-service-microservice.git
